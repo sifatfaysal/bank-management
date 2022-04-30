@@ -2,7 +2,8 @@
 ![](https://img.shields.io/badge/Programming_Language-c-blue.svg)
 ![](https://img.shields.io/badge/ProjectType-ConsoleApp-red.svg)
 
-This project in C you can create a new account, update information of an existing account, view and manage transactions, check the details of an existing account, remove existing account and view customers’ list. Overall, with this project, you can perform banking activities like in a REAL bank. Bank management mini project in C is a console application without graphics.
+A bank management system in C, a console application without GUI (graphical user interface).
+In this project, you can create a new account, update the information of an existing account, view and manage transactions, check the details of an existing account, remove an existing account and view the customers’ lists. Overall, with this project, you can perform banking activities like in a real banking system. 
 
   
 ## Functions:
